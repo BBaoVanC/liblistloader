@@ -12,7 +12,7 @@ Library for loading word lists from files. Built for [libnamegen](https://git.bb
 * Easy to use
 * Imported as module
 * Always tested before release
-* Supports latest three versions of Python 3
+* Officially supports latest two versions of Python 3
 
 ---
 
