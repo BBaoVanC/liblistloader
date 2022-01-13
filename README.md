@@ -1,21 +1,18 @@
 # liblistloader
 
+[![Build Status](https://drone.bbaovanc.com/api/badges/bbaovanc/liblistloader/status.svg)](https://drone.bbaovanc.com/bbaovanc/liblistloader)
+
 ![PyPI](https://img.shields.io/pypi/v/liblistloader)
 ![PyPI - License](https://img.shields.io/pypi/l/liblistloader)
 
-![GitHub issues](https://img.shields.io/github/issues-raw/BBaoVanC/liblistloader)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/BBaoVanC/liblistloader)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BBaoVanC/liblistloader)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/BBaoVanC/liblistloader)
-
-Library for loading word lists from files. Built for [libnamegen](https://github.com/BBaoVanC/libnamegen)
+Library for loading word lists from files. Built for [libnamegen](https://git.bbaovanc.com/bbaovanc/libnamegen)
 
 ## Features
 
 * Easy to use
 * Imported as module
 * Always tested before release
-* Supports latest three versions of Python 3
+* Officially supports latest two versions of Python 3
 
 ---
 
@@ -82,4 +79,4 @@ desiquintans_nounlist: velocity
 
 ## License
 
-_liblistloader_ is licensed under the GPLv3 license. For more information, please refer to [`LICENSE`](https://github.com/BBaoVanC/liblistloader/blob/master/LICENSE).
+_liblistloader_ is licensed under the GPLv3 license. For more information, please refer to [`LICENSE`](https://git.bbaovanc.com/bbaovanc/liblistloader/src/branch/master/LICENSE).

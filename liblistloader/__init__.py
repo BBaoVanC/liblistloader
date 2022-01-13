@@ -5,7 +5,7 @@ Word List Loader.
 by BBaoVanC
 
 This package allows for easy loading of word lists.
-Built for https://github.com/BBaoVanC/libnamegen/
+Built for https://git.bbaovanc.com/bbaovanc/libnamegen
 
 Copyright (C) 2020 BBaoVanC
 """
