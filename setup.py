@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="liblistloader",
-    version="1.0.1.post1",
+    version="1.0.1.post2",
     author="BBaoVanC",
     author_email="pypi@bbaovanc.com",
     description="Library for loading of word lists",
